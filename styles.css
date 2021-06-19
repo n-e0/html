@@ -4,10 +4,7 @@ body {
 h1 {
   color: #924441;
 }
-h2, ol, p {
-  color: #c2c2c2;
-}
-a:link, a:visited {
+a:link, a:visited, h2, ol, p {
   background-color: #282c34;
   color: #c2c2c2;
   text-decoration: none;
